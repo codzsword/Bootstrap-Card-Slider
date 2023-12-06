@@ -9,5 +9,5 @@
 - Slick Carousel Implementation
 - User-Friendly Design
 
-[![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codzsword)
+[![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PDJR3RsoeJA)
 
